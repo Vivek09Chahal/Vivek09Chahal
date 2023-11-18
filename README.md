@@ -5,7 +5,7 @@
 
 - 🖋 Languages I Use
 
-![Swift](https://img.shields.io/badge/Swift-00000?style=for-the-badge&logo=Swift&logoColor=orange)] ![C++](https://img.shields.io/badge/C++-00000?style=for-the-badge&logo=C++&logoColor=orange)]
+![Swift](https://img.shields.io/badge/Swift-00000?style=for-the-badge&logo=Swift&logoColor=white)] ![C++](https://img.shields.io/badge/C++-00000?style=for-the-badge&logo=C++&logoColor=white)]
 
 <!--
 **Vivek09Chahal/Vivek09Chahal** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
