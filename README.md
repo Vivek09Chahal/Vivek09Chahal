@@ -3,9 +3,9 @@
 - I have a huge interest in coding👨‍💻 language C++ and Swift.
 - I love to join different community and competition that involve creating something for the society!
 
-- 🖋 Languages I Use
+- 🖋 Languages & TOOLS
 
-![Swift](https://img.shields.io/badge/Swift-00000?style=for-the-badge&logo=Swift&logoColor=white)] ![C++](https://img.shields.io/badge/C++-00000?style=for-the-badge&logo=C++&logoColor=white)]
+![Swift](https://img.shields.io/badge/Swift-#FF7F50?style=for-the-badge&logo=Swift&logoColor=white) ![C++](https://img.shields.io/badge/C++-#FF7F50?style=for-the-badge&logo=C++&logoColor=white)
 
 <!--
 **Vivek09Chahal/Vivek09Chahal** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
