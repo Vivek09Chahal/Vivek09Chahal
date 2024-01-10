@@ -1,5 +1,5 @@
 ### Hi there 👋
-- My name is Vivek. I'm from Dronacharya College of Engineering taking Computer Science Engineering.
+- My name is Vivek. I'm Computer Science Engineering.
 - I have a huge interest in coding👨‍💻 language C++ and Swift.
 - I love to join different community and competition that involve creating something for the society!
 
