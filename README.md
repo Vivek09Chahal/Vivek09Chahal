@@ -9,7 +9,7 @@
 
 - 📫 How to reach me **vivekchahal1156@gmail.com**
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=vivek09chahal&label=Profile%20views&color=0e75b6&style=flat" alt="vivek09chahal" /> </p>
+[![](https://visitcount.itsvg.in/api?id=kanakOS01&icon=0&color=9)](https://visitcount.itsvg.in)
 
 <p align="left"> <a href="https://twitter.com/vivekchahal09" target="blank"><img src="https://img.shields.io/twitter/follow/vivekchahal09?logo=twitter&style=for-the-badge" alt="vivekchahal09" /></a> </p>
 
