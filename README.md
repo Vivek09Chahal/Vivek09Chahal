@@ -35,16 +35,16 @@
 <a href="https://www.tensorflow.org" target="_blank" rel="noreferrer" title="TensorFlow"> <img src="https://www.vectorlogo.zone/logos/tensorflow/tensorflow-icon.svg" alt="tensorflow" width="40" height="40"/> </a>
 </p>
 <p align="left"> 
-    <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer" title="C">C</a>&nbsp;&nbsp;&nbsp;&nbsp;
-    <a href="https://www.w3schools.com/cpp/" target="_blank" rel="noreferrer" title="C++">C++</a>&nbsp;&nbsp;&nbsp;&nbsp;
-    <a href="https://developer.apple.com/swift/" target="_blank" rel="noreferrer" title="Swift">Swift</a>&nbsp;&nbsp;&nbsp;&nbsp;
-    <a href="https://www.python.org" target="_blank" rel="noreferrer" title="Python">Python</a>&nbsp;&nbsp;&nbsp;&nbsp;
-    <a href="https://git-scm.com/" target="_blank" rel="noreferrer" title="Git">Git</a>&nbsp;&nbsp;&nbsp;&nbsp;
-    <a href="https://www.mathworks.com/" target="_blank" rel="noreferrer" title="MATLAB">MATLAB</a>&nbsp;&nbsp;&nbsp;&nbsp;
-    <a href="https://www.mysql.com/" target="_blank" rel="noreferrer" title="MySQL">MySQL</a>&nbsp;&nbsp;&nbsp;&nbsp;
-    <a href="https://pandas.pydata.org/" target="_blank" rel="noreferrer" title="Pandas">Pandas</a>&nbsp;&nbsp;&nbsp;&nbsp;
-    <a href="https://pytorch.org/" target="_blank" rel="noreferrer" title="PyTorch">PyTorch</a>&nbsp;&nbsp;&nbsp;&nbsp;
-    <a href="https://scikit-learn.org/" target="_blank" rel="noreferrer" title="Scikit-Learn">Scikit-Learn</a>&nbsp;&nbsp;&nbsp;&nbsp;
+    <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer" title="C">C</a>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+    <a href="https://www.w3schools.com/cpp/" target="_blank" rel="noreferrer" title="C++">C++</a>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+    <a href="https://developer.apple.com/swift/" target="_blank" rel="noreferrer" title="Swift">Swift</a>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+    <a href="https://www.python.org" target="_blank" rel="noreferrer" title="Python">Python</a>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+    <a href="https://git-scm.com/" target="_blank" rel="noreferrer" title="Git">Git</a>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+    <a href="https://www.mathworks.com/" target="_blank" rel="noreferrer" title="MATLAB">MATLAB</a>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+    <a href="https://www.mysql.com/" target="_blank" rel="noreferrer" title="MySQL">MySQL</a>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+    <a href="https://pandas.pydata.org/" target="_blank" rel="noreferrer" title="Pandas">Pandas</a>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+    <a href="https://pytorch.org/" target="_blank" rel="noreferrer" title="PyTorch">PyTorch</a>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+    <a href="https://scikit-learn.org/" target="_blank" rel="noreferrer" title="Scikit-Learn">Scikit-Learn</a>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
     <a href="https://www.tensorflow.org" target="_blank" rel="noreferrer" title="TensorFlow">TensorFlow</a>
 </p>
 
