@@ -9,6 +9,7 @@
 
 - 📫 How to reach me **vivekchahal1156@gmail.com**
 
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=vivek09chahal&label=Profile%20views&color=0e75b6&style=flat" alt="vivek09chahal" /> </p>
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
@@ -27,8 +28,6 @@
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=vivek09chahal&show_icons=true&locale=en" alt="vivek09chahal" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=vivek09chahal&" alt="vivek09chahal" /></p>
-
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=vivek09chahal&label=Profile%20views&color=0e75b6&style=flat" alt="vivek09chahal" /> </p>
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=vivek09chahal" alt="vivek09chahal" /></a> </p>
 
