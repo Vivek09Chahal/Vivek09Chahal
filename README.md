@@ -43,4 +43,5 @@
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=vivek09chahal&" alt="vivek09chahal" /></p>
 
 <h3 align="left">Trophis Earned:</h3>
+
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=vivek09chahal" alt="vivek09chahal" /></a> </p>
