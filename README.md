@@ -36,11 +36,17 @@
 </p>
 
 <h3 align="left">Static graph:</h3>
-<p align="left"><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=vivek09chahal&show_icons=true&locale=en&layout=compact" alt="vivek09chahal" /></p>
+<p align="left">
+    <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=vivek09chahal&show_icons=true&locale=en&layout=compact" alt="vivek09chahal" />
+</p>
 
-<p align="center"><img align="center" src="https://github-readme-stats.vercel.app/api?username=vivek09chahal&show_icons=true&locale=en" alt="vivek09chahal" /></p>
+<p align="center">
+    <img align="center" src="https://github-readme-stats.vercel.app/api?username=vivek09chahal&show_icons=true&locale=en" alt="vivek09chahal" />
+</p>
 
-<p align="center"><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=vivek09chahal&" alt="vivek09chahal" /></p>
+<p align="center">
+    <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=vivek09chahal&" alt="vivek09chahal" />
+</p>
 
 <h3 align="left">Trophis Earned:</h3>
 
