@@ -11,6 +11,18 @@ class Aidan {
 }
 ```
 
+I am a software engineer passonate about the AI emerging technology. What more AI can do other than ChatGPT or Gemini Pro. 
+I and also interested in UI world of SWIFTUI and APP technlogy.
+
+# :round_pushpin: What Am I Doing?
+- :clipboard: Currently I am:
+  - Self-teaching AI / Machine Learning
+  - And iOS development
+  - Grinding LeetCode
+  - Commited to make evergreen Tech.
+-----
+
+
 [![](https://visitcount.itsvg.in/api?id=kanakOS01&icon=0&color=9)](https://visitcount.itsvg.in)
 
 <p align="left"> <a href="https://twitter.com/vivekchahal09" target="blank"><img src="https://img.shields.io/twitter/follow/vivekchahal09?logo=twitter&style=for-the-badge" alt="vivekchahal09" /></a> </p>
@@ -24,16 +36,10 @@ class Aidan {
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer" title="C"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/> </a>&nbsp;&nbsp;&nbsp;&nbsp;
-<a href="https://www.w3schools.com/cpp/" target="_blank" rel="noreferrer" title="C++"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/> </a>&nbsp;&nbsp;&nbsp;&nbsp;
-<a href="https://developer.apple.com/swift/" target="_blank" rel="noreferrer" title="Swift"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/swift/swift-original.svg" alt="swift" width="40" height="40"/> </a>&nbsp;&nbsp;&nbsp;&nbsp;
-<a href="https://www.python.org" target="_blank" rel="noreferrer" title="Python"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a>&nbsp;&nbsp;&nbsp;&nbsp;
-<a href="https://git-scm.com/" target="_blank" rel="noreferrer" title="Git"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a>&nbsp;&nbsp;&nbsp;&nbsp;
-<a href="https://www.mathworks.com/" target="_blank" rel="noreferrer" title="MATLAB"> <img src="https://upload.wikimedia.org/wikipedia/commons/2/21/Matlab_Logo.png" alt="matlab" width="40" height="40"/> </a>&nbsp;&nbsp;&nbsp;&nbsp;
-<a href="https://www.mysql.com/" target="_blank" rel="noreferrer" title="MySQL"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a>&nbsp;&nbsp;&nbsp;&nbsp;
-<a href="https://pandas.pydata.org/" target="_blank" rel="noreferrer" title="Pandas"> <img src="https://raw.githubusercontent.com/devicons/devicon/2ae2a900d2f041da66e950e4d48052658d850630/icons/pandas/pandas-original.svg" alt="pandas" width="40" height="40"/> </a>&nbsp;&nbsp;&nbsp;&nbsp;
-<a href="https://scikit-learn.org/" target="_blank" rel="noreferrer" title="Scikit-Learn"> <img src="https://upload.wikimedia.org/wikipedia/commons/0/05/Scikit_learn_logo_small.svg" alt="scikit_learn" width="40" height="40"/> </a>&nbsp;&nbsp;&nbsp;&nbsp;
-<!-- <a href="https://www.tensorflow.org" target="_blank" rel="noreferrer" title="TensorFlow"> <img src="https://www.vectorlogo.zone/logos/tensorflow/tensorflow-icon.svg" alt="tensorflow" width="40" height="40"/> </a> -->
+
+[![Main Langs](https://skillicons.dev/icons?i=python,swift,cpp,c&theme=dark)](https://skillicons.dev)
+
+[![Tools](https://skillicons.dev/icons?i=vscode,postman,vscode,idea,heroku,github,figma,eclipse&theme=dark)](https://skillicons.dev)
 </p>
 
 <h3 align="left">Static graph:</h3>
