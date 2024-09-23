@@ -37,11 +37,11 @@ I and also interested in UI world of SWIFTUI and APP technlogy.
 
 <h3 align="left">Languages and Tools:</h3>
 
-[![Main Langs](https://skillicons.dev/icons?i=python,swift,cpp,c&theme=dark)](https://skillicons.dev)
+[![Main Langs](https://skillicons.dev/icons?i=apple,python,swift,cpp,c,c&theme=dark)](https://skillicons.dev)
 
-[![Tools](https://skillicons.dev/icons?i=vscode,postman,xcode,swiftdata,github,git,Docker&theme=dark)](https://skillicons.dev)
+[![Tools](https://skillicons.dev/icons?i=vscode,postman,Xcode,notion,github,git,Docker&theme=dark)](https://skillicons.dev)
 
-[![ML](https://skillicons.dev/icons?i=matplot,pandas,numpy,seaborn&theme=dark)](https://skillicons.dev)
+[![ML](https://skillicons.dev/icons?i=matlab,pandas,sklearn,tensorflow&theme=dark)](https://skillicons.dev)
 </p>
 
 <h3 align="left">Static graph:</h3>
