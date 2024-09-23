@@ -37,7 +37,7 @@ I and also interested in UI world of SWIFTUI and APP technlogy.
 
 <h3 align="left">Languages and Tools:</h3>
 
-[![Main Langs](https://skillicons.dev/icons?i=apple,python,swift,cpp,c,c&theme=dark)](https://skillicons.dev)
+[![Main Langs](https://skillicons.dev/icons?i=apple,python,swift,cpp,c&theme=dark)](https://skillicons.dev)
 
 [![Tools](https://skillicons.dev/icons?i=vscode,notion,github,git,Docker&theme=dark)](https://skillicons.dev)
 
