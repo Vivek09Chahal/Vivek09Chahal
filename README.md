@@ -1,13 +1,15 @@
-<h1 align="center">Hi 👋, I'm Vivek</h1>
-<h3 align="center">A passionate software developer from India</h3>
+### Hi There! My name is Vivek.
+-----
+# :postbox: About Me
+My name is Vivek and I am a Computer Science student!
 
-- 🌱 I’m currently learning **ML**
-
-- 👯 I’m looking to collaborate on **C++**
-
-- 🤝 I’m looking for help with **SwiftUI**
-
-- 📫 How to reach me **vivekchahal1156@gmail.com**
+```swift
+class Aidan {
+    var age: Int = 20
+    var traits: [String] = ["dumb", "short", "nerd"]
+    var hobbies: [String] = ["Coding!", "Ultimate Frisbee", "Valorant", "Motivational Speaker", "Sleeping"]
+}
+```
 
 [![](https://visitcount.itsvg.in/api?id=kanakOS01&icon=0&color=9)](https://visitcount.itsvg.in)
 
