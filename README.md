@@ -6,7 +6,7 @@ My name is Vivek and I am a Computer Science student!
 ```swift
 class Vivek {
     var age: Int = 20
-    var traits: [String] = ["dumb", "short", "nerd"]
+    var traits: [String] = ["dumb", "nerd"]
     var hobbies: [String] = ["Coding!", "Ultimate Frisbee", "Valorant", "Motivational Speaker", "Sleeping"]
 }
 ```
