@@ -5,14 +5,14 @@ My name is Vivek and I am a Computer Science student!
 
 ```swift
 class Vivek {
-    var age: Int = 20
+    var age: Int = 21
     var traits: [String] = ["dumb", "nerd"]
     var hobbies: [String] = ["Coding!", "Ultimate Frisbee", "Valorant", "Motivational Speaker", "Sleeping"]
 }
 ```
 
 I am a software engineer passonate about the AI emerging technology. What more AI can do other than ChatGPT or Gemini Pro. 
-I and also interested in UI world of SWIFTUI and APP technlogy.
+I and also interested in UI world of SWIFTUI and APP technology.
 
 # :round_pushpin: What Am I Doing?
 - :clipboard: Currently I am:
