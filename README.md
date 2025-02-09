@@ -42,11 +42,3 @@ I and also interested in UI world of SWIFTUI and APP technology.
 
 [![ML](https://skillicons.dev/icons?i=matlab,sklearn,tensorflow&theme=dark)](https://skillicons.dev)
 </p>
-
-<h3 align="left">Static graph:</h3>
-<p align="left">
-    <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=vivek09chahal&show_icons=true&locale=en&layout=compact" alt="vivek09chahal" /> 
-</p>
-
-<h3 align="left">Trophis Earned:</h3>
-<img src="https://github-profile-trophy.vercel.app/?username=vivek09chahal&theme=juicyfresh&no-bg=true" />
