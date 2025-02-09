@@ -48,11 +48,5 @@ I and also interested in UI world of SWIFTUI and APP technology.
     <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=vivek09chahal&show_icons=true&locale=en&layout=compact" alt="vivek09chahal" /> 
 </p>
 
-[![GitHub stats](https://github-readme-stats.vercel.app/api?username=Vivek09Chahal)](https://github.com/Vivek09Chahal/github-readme-stats)
-
-<p align="left">
-    <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=vivek09chahal&" alt="vivek09chahal" />
-</p>
-
 <h3 align="left">Trophis Earned:</h3>
 <img src="https://github-profile-trophy.vercel.app/?username=vivek09chahal&theme=juicyfresh&no-bg=true" />
