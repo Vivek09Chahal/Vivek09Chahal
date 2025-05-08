@@ -53,5 +53,5 @@ With a keen interest in <strong>Machine Learning and Artificial Intelligence</st
 </p>
 
 <p>
-  <img width="45%" height="160em" src="https://github-readme-streak-stats.herokuapp.com/?user=Vivek09Chahal&theme=tokyonight" alt="GitHub Streak" />
+  <img width="48%" height="160em" src="https://github-readme-streak-stats.herokuapp.com/?user=Vivek09Chahal&theme=tokyonight" alt="GitHub Streak" />
 </p>
