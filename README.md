@@ -2,7 +2,7 @@
 
 ![A stylish banner with text "Hi My name is Vivek. Stay Here As Long As You Want" featuring a minimalist design](https://github.com/user-attachments/assets/46b0b051-8231-4dc8-b031-d3552dd68191)
 
-I'm a passionate and driven iOS developer and 3rd-year Computer Science student with a strong interest in cutting-edge technologies. Currently, I am deepening my expertise in iOS app development, focusing on mastering RESTful API integration, JSON parsing, and <a href= "https://firebase.google.com"> Firebase</a> 🔥 integration, along with the core principles of mobile development.
+I'm a passionate and driven iOS developer and 4th-year Computer Science student with a strong interest in cutting-edge technologies. Currently, I am deepening my expertise in iOS app development, focusing on mastering RESTful API integration, JSON parsing, and <a href= "https://firebase.google.com"> Firebase</a> 🔥 integration, along with the core principles of mobile development.
 <p>
 Beyond <a href="https://developer.apple.com">iOS Development</a>, my technical exploration extends in development field, including <a href="https://developer.android.com">Android APP Development</a>, <a href="https://developer.microsoft.com/en-us/windows/">Windows App Development. </a> And <a href="https://www.unrealengine.com/en-US">Game Development</a> as well.
 </p>
