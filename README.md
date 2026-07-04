@@ -45,13 +45,3 @@ With a keen interest in <strong>Machine Learning and Artificial Intelligence</st
   <a href="https://leetcode.com/u/vivekchahal09/" target="_blank"><img src="https://img.shields.io/badge/LeetCode-%23FFA116.svg?style=flat-square&logo=LeetCode&logoColor=black" alt="LeetCode" height="22"/></a>&nbsp;
   <a href="https://www.hackerrank.com/vivekchahal1156" target="_blank"><img src="https://img.shields.io/badge/HackerRank-%232EC866.svg?style=flat-square&logo=HackerRank&logoColor=white" alt="HackerRank" height="22"/></a>
 </p>
-
-##### GitHub Stats
-<p>
-  <img width="48%" height="160em" src="https://github-readme-stats.vercel.app/api?username=Vivek09Chahal&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
-  <img width="48%" height="160em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Vivek09Chahal&layout=compact&langs_count=7&theme=tokyonight"/>
-</p>
-
-<p>
-  <img width="48%" height="160em" src="https://github-readme-streak-stats.herokuapp.com/?user=Vivek09Chahal&theme=tokyonight" alt="GitHub Streak" />
-</p>
