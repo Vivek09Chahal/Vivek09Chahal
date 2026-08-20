@@ -14,7 +14,7 @@
 
 ## About Me
 
-I'm an iOS developer and CS graduate with hands-on experience building and shipping real-world applications. Former **[Swiggy](https://www.swiggy.com)** intern, worked on production features for Dineout, building reusable UI components, and contributing to the migration from UIKit to SwiftUI.
+I'm an iOS developer and CS graduate with hands-on experience building and shipping real-world applications. Former **[Swiggy](https://www.swiggy.com)** intern, worked on production features for Dineout, build reusable UI components, and contributed to the migration from UIKit to SwiftUI.
 
 At **Intern Labs**, I independently built a matrimonial matchmaking app using Swift, SwiftUI, and Firebase — implementing authentication, onboarding, profiles, and real-time data.
 
